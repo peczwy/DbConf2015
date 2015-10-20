@@ -9,20 +9,20 @@ DbConf2015 http://www.dbconf.pl/2015/pl/
 # Spis rzeczy:
 1. Idea modelu programistycznego MapReduce  
 2. Przykład WordCount  
-	a)Map
-	b)Reduce
-	c)Combine
+	a)Map  
+	b)Reduce  
+	c)Combine  
 3. Złączenia - definicja  
 4. Taksonomia złączeń  
 5. Map-Side Joins  
-	a)Broadcast Join
-	b)Reverse Map Join*
+	a)Broadcast Join  
+	b)Reverse Map Join*  
 6. Reduce-Side Joins  
-	a)Repartition Join
-	b)Improved Repartition Join*
+	a)Repartition Join  
+	b)Improved Repartition Join*  
 7. Złączenia wielofazowe/wielozadanowie
-	a)Directed Join
-	b)Semi-Join*
+	a)Directed Join  
+	b)Semi-Join*  
 8. Load Balancing Approach  
 9. Hive  
 10. Dwa slajdy z wydajnością  
