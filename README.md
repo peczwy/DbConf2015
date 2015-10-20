@@ -1,5 +1,5 @@
 # DbConf2015
-Repo dla prezentacji: Algorytmy złączeń w MapReduce prezentowanej w ramach:
+Repo dla prezentacji: Algorytmy złączeń w MapReduce prezentowanej w ramach:  
 DbConf2015 http://www.dbconf.pl/2015/pl/
 
 # Wersje prezentacji:
@@ -9,11 +9,22 @@ DbConf2015 http://www.dbconf.pl/2015/pl/
 # Spis rzeczy:
 1. Idea modelu programistycznego MapReduce  
 2. Przykład WordCount  
+	a)Map
+	b)Reduce
+	c)Combine
 3. Złączenia - definicja  
 4. Taksonomia złączeń  
 5. Map-Side Joins  
+	a)Broadcast Join
+	b)Reverse Map Join*
 6. Reduce-Side Joins  
-7. Złączenia wielofazowe/wielozadanowie (Directed Join/Semi-Join)  
+	a)Repartition Join
+	b)Improved Repartition Join*
+7. Złączenia wielofazowe/wielozadanowie
+	a)Directed Join
+	b)Semi-Join*
 8. Load Balancing Approach  
 9. Hive  
 10. Dwa slajdy z wydajnością  
+
+* - tylko w wersji FULL
