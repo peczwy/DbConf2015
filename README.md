@@ -20,8 +20,8 @@ DbConf2015 http://www.dbconf.pl/2015/pl/
 6. Reduce-Side Joins  
 	a)Repartition Join  
 	b)Improved Repartition Join*  
-7. Złączenia wielofazowe/wielozadanowie
-	a)Directed Join  
+7. Złączenia wielofazowe/wielozadanowie *
+	a)Directed Join  *
 	b)Semi-Join*  
 8. Load Balancing Approach  
 9. Hive  
