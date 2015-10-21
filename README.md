@@ -8,10 +8,10 @@ DbConf2015 http://www.dbconf.pl/2015/pl/
 
 # Spis rzeczy:
 1. Idea modelu programistycznego MapReduce  
-2. Przykład WordCount  
-	a)Map  
-	b)Reduce  
-	c)Combine  
+2. Przykład WordCount*  
+	a)Map*  
+	b)Reduce*  
+	c)Combine*  
 3. Złączenia - definicja  
 4. Taksonomia złączeń  
 5. Map-Side Joins  
