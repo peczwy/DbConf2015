@@ -24,7 +24,7 @@ DbConf2015 http://www.dbconf.pl/2015/pl/
 	a)Directed Join  *
 	b)Semi-Join*  
 8. Load Balancing Approach  
-9. Hive  
+9. Hive  *
 10. Dwa slajdy z wydajnością  
 
 * - tylko w wersji FULL
